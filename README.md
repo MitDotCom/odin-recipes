@@ -8,4 +8,4 @@ At the end of the project I will write an updated 'self-reflection' here in the 
 
 After the first iteration, I learned how quick and easy lists (ul and ol) are to use. I am excited to learn to use more structure. I think I need to just continue with TOP curriculum, as I believe Flexbox may just be the thing I need for that structure.
 
-Coming back, after the CSS lesson,
+Coming back, after the CSS lesson, I have learned the basic syntax and rules of CSS. But I will most certainly want to continue to practice and solidify my understanding of The Cascade (rules). I also realize how much CSS I have to learn. There are so many properties to learn with their various values.
