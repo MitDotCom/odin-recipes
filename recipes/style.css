@@ -1,4 +1,24 @@
 body {
     background-image: url("./img/pizza-bg.png");
-    /*background-repeat: repeat;*/
+
+}
+#header {
+    color:hsl(39, 83%, 40%);
+    text-shadow: 2px 2px #b4b4b4;
+    font-family: "Comic Sans",Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 800;
+    background-color: #ffff00;
+    width: fit-content;
+}
+.pizza-box {
+    width: fit-content;
+    font-family: "Comic Sans",Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:large;
+    font-weight: 800;
+    background-color: #ffff00;
+}
+.footer {
+    font-family: serif,sans-serif;
+    font-weight: 700;
+    background-color: #ff0;
 }
