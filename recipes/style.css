@@ -12,6 +12,7 @@ body {
     margin: auto;
 }
 h2 {
+    width: fit-content;
     display: block;
     margin: auto;
 }
