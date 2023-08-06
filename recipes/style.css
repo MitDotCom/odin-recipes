@@ -25,7 +25,8 @@ img {
     font-size:large;
     font-weight: 800;
     background-color: #ffff00;
-    margin: auto;
+    padding: 1em;
+    margin: 2em auto;
 }
 .footer {
     width: fit-content;
